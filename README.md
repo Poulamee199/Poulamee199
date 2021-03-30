@@ -2,8 +2,8 @@
 
 
 - 👋 Hi, I’m @Poulamee199
-- 👀 I’m interested in exploring new areas of cs
-- 📚 I'm currently learning CS specialization in AI
+- 👀 I’m interested in exploring new areas of CS
+- 📚 I'm currently learning CSE specialization in AI
 - 🌱 I’m currently pursuing M.Tech
 - 💞️ Looking to collaborate with new ideas
 - 📭 Can contact me through poulameethakur@gmail.com
